@@ -1,5 +1,9 @@
 # Introdução verbos
 
+IS = SINGULAR
+ARE = PLURAL
+
+
 - I = EU
 - YOU = VOCÊ
 - HE = ELE
@@ -9,6 +13,8 @@
 - YOU = VOCÊS
 - THEY = ELES / ELAS
 
+  -----------------------------------------------
+
 - I am – eu sou/estou 
 - You are – você é/está - vocês são/estão 
 - We are – nós somos/estamos 
@@ -16,3 +22,4 @@
 - He is – ele é/está 
 - She is – ela é/está 
 - It is – isso é/está 
+
